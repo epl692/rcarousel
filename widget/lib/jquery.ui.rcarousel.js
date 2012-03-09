@@ -786,7 +786,7 @@
 			margin: 0,
 			orientation: "horizontal",
 			auto: {
-				enabled: enabled,
+				enabled: true,
 				direction: "next",
 				interval: 5000
 			},
