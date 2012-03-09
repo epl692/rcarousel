@@ -778,15 +778,15 @@
 		},
 		
 		options: {
-			visible: 3,
-			step: 3,
+			visible: 1,
+			step: 1,
 			width: 100,
 			height: 100,
 			speed: 1000,
 			margin: 0,
 			orientation: "horizontal",
 			auto: {
-				enabled: false,
+				enabled: enabled,
 				direction: "next",
 				interval: 5000
 			},
